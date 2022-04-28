@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 & WindiCSS Minimal Starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+[Nuxt 3 Documentation](https://v3.nuxtjs.org)
+[WindiCSS Documentation](https://windicss.org/guide/)
+
+
 
 ## Setup
 
